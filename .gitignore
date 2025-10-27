@@ -1,5 +1,8 @@
 .DS_Store
+
 .vscode
+
+.env
 
 # py cache
 __pycache__

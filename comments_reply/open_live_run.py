@@ -13,12 +13,12 @@ import blivedm.models.web as web_models
 from config import SET_LOCAL_COMMENTS
 
 # 在开放平台申请的开发者密钥
-ACCESS_KEY_ID = 'h4MqQ1SmBdtMouRgEZRHAS14'
-ACCESS_KEY_SECRET = 'eOcZ0jkT6zS81NlBfmQEfDmJf3YqJG'
+ACCESS_KEY_ID = 'xxx'
+ACCESS_KEY_SECRET = 'xxx'
 # 在开放平台创建的项目ID
-APP_ID = 3494894639587287
+APP_ID = ...
 # 主播身份码
-ROOM_OWNER_AUTH_CODE = 'EQIRFHI1YZ9C7'
+ROOM_OWNER_AUTH_CODE = 'xxx'
 
 # 弹幕无回复播放随机音频的延时时间（秒）
 NO_REPLY_DELAY_SECONDS = 15
